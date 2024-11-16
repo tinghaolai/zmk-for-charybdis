@@ -20,23 +20,23 @@
 
         layer_1 {
             bindings = <
-&none  &none  &none  &none  &none  &none  &none    &none  &none  &none  &none  &none  &none  &none
-&none  &none  &none  &none  &none  &none  &none    &none  &none  &none  &none  &none  &none  &none
-&none  &none  &none  &none  &none  &none  &none    &none  &none  &none  &none  &none  &none  &none
-&none  &none  &none  &none  &none  &none  &none    &none  &none  &none  &none  &none  &none  &none
-&none  &none  &none  &none  &none  &none  &none    &none  &none  &none  &none  &none  &none  &none
-                     &none  &none  &none  &none    &none  &none  &none  &none
+&none  &kp EXCLAMATION  &kp HASH   &kp RIGHT_BRACKET  &kp RIGHT_BRACE  &kp GREATER_THAN  &kp TILDE                &none            &none          &none      &none      &none      &kp LCTRL  &kp UNDERSCORE
+&none  &kp LC(F)        &kp LC(C)  &kp LC(V)          &kp LS(P)        &kp LS(Y)         &kp RIGHT_PARENTHESIS    &kp RIGHT_BRACE  &kp LS(F)      &kp LS(G)  &kp LS(C)  &kp LS(R)  &kp LS(L)  &none
+&none  &kp LS(A)        &kp LS(O)  &kp LS(E)          &kp LS(U)        &kp LS(I)         &kp DOUBLE_QUOTES        &none            &kp LS(D)      &kp LS(H)  &kp LS(T)  &kp LS(N)  &kp LS(S)  &none
+&none  &none            &kp LS(Q)  &kp LS(J)          &kp LS(K)        &kp LS(X)         &none                    &none            &kp LS(B)      &kp LS(M)  &kp LS(W)  &kp LS(V)  &kp LS(Z)  &none
+&none  &none            &none      &none              &none            &none             &none                    &none            &kp LS(ENTER)  &none      &none      &none      &none      &none
+                                   &none              &none            &none             &none                    &none            &none          &none      &none
             >;
         };
 
         layer_2 {
             bindings = <
-&none        &none  &none  &none  &none        &none  &rgb_ug RGB_TOG    &bt BT_NXT  &bt BT_CLR  &none        &none  &none  &none  &none
-&none        &none  &none  &none  &none        &none  &rgb_ug RGB_EFF    &none       &none       &none        &none  &none  &none  &none
-&none        &none  &none  &none  &none        &none  &rgb_ug RGB_BRI    &none       &none       &none        &none  &none  &none  &none
-&none        &none  &none  &none  &none        &none  &rgb_ug RGB_BRD    &none       &none       &none        &none  &none  &none  &none
-&bootloader  &none  &none  &none  &none        &none  &none              &none       &none       &none        &none  &none  &none  &bootloader
-                           &none  &bootloader  &none  &none              &none       &none       &bootloader  &none
+&none        &none         &none         &none         &none         &none         &rgb_ug RGB_TOG    &bt BT_NXT  &bt BT_CLR     &none         &none         &none         &none         &none
+&none        &none         &none         &none         &none         &none         &rgb_ug RGB_EFF    &none       &none          &none         &none         &none         &none         &none
+&none        &kp NUMBER_7  &kp NUMBER_5  &kp NUMBER_3  &kp NUMBER_1  &kp NUMBER_9  &rgb_ug RGB_BRI    &none       &kp NUMBER_0   &kp NUMBER_2  &kp NUMBER_4  &kp NUMBER_6  &kp NUMBER_8  &none
+&none        &none         &none         &none         &none         &none         &rgb_ug RGB_BRD    &none       &kp PAGE_UP    &kp HOME      &kp END       &none         &none         &none
+&bootloader  &none         &none         &none         &none         &none         &none              &none       &kp PAGE_DOWN  &none         &none         &none         &none         &bootloader
+                                         &none         &bootloader   &none         &none              &none       &none          &bootloader   &none
             >;
         };
 
