@@ -44,12 +44,12 @@
 
         layer_3 {
             bindings = <
-&trans  &trans  &trans       &trans     &trans       &trans     &trans       &bl BL_ON        &bl BL_OFF       &bl BL_INC       &bl BL_DEC       &trans                            &trans           &trans
-&trans  &trans  &trans       &kp RA(P)  &trans       &trans     &trans       &rgb_ug RGB_TOG  &rgb_ug RGB_HUI  &rgb_ug RGB_HUD  &rgb_ug RGB_SAI  &rgb_ug RGB_SAD                   &rgb_ug RGB_BRI  &rgb_ug RGB_BRD
-&trans  &trans  &kp LA(U)    &kp LA(G)  &kp LA(J)    &trans     &trans       &rgb_ug RGB_SPI  &rgb_ug RGB_SPD  &rgb_ug RGB_EFF  &rgb_ug RGB_EFR  &rgb_ug RGB_COLOR_HSB(153,91,26)  &trans           &trans
-&trans  &trans  &trans       &trans     &trans       &trans     &trans       &trans           &trans           &trans           &trans           &trans                            &trans           &trans
-&trans  &trans  &bootloader  &trans     &trans       &mkp LCLK  &mkp RCLK    &kp LA(Z)        &kp LA(Q)        &trans           &trans           &trans                            &trans           &trans
-                             &trans     &bootloader  &trans     &trans       &trans           &trans           &trans           &trans
+&trans  &trans  &trans       &trans   &trans       &trans     &trans       &bl BL_ON  &bl BL_OFF  &bl BL_INC  &bl BL_DEC  &trans  &trans  &trans
+&trans  &trans  &trans       &kp F21  &trans       &trans     &trans       &none      &none       &none       &kp LG(A)   &none   &none   &none
+&trans  &trans  &kp F19      &kp F20  &kp F18      &trans     &trans       &none      &kp LG(F)   &kp LG(C)   &kp LG(V)   &none   &trans  &trans
+&trans  &trans  &trans       &trans   &trans       &trans     &trans       &trans     &trans      &trans      &trans      &trans  &trans  &trans
+&trans  &trans  &bootloader  &trans   &trans       &mkp LCLK  &mkp RCLK    &kp F17    &kp F16     &trans      &trans      &trans  &trans  &trans
+                             &trans   &bootloader  &trans     &trans       &trans     &trans      &trans      &trans
             >;
         };
 
