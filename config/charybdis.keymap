@@ -15,8 +15,8 @@
 &lt 1 CAPS    &kp DOLLAR            &kp EQUAL         &kp SEMICOLON             &kp P            &kp Y          &kp LEFT_PARENTHESIS    &kp SLASH             &kp F          &kp G         &kp C                      &kp R        &kp L         &kp PLUS
 &kp LEFT_GUI  &kp A                 &kp O             &kp E                     &kp U            &kp I          &kp SQT                 &kp DEL               &kp D          &kp H         &kp T                      &kp N        &kp S         &sl 2
 &kp TAB       &kp AT_SIGN           &kp Q             &kp J                     &kp K            &kp X          &none                   &none                 &kp B          &kp M         &kp W                      &kp V        &kp Z         &none
-&sl 3         &kp LG(LS(NUMBER_4))  &kp LEFT_CONTROL  &kp LEFT_ARROW            &kp RIGHT_ARROW  &kp SPACE      &kp NUMBER_2            &kp N7                &kp ENTER      &kp UP_ARROW  &kp DOWN_ARROW             &kp PERCENT  &none         &mo 2
-                                                      &kp LA(LC(LEFT_BRACKET))  &kp NUMBER_6     &kp LEFT_ALT   &kp NUMBER_4            &kp NUMBER_9          &kp BACKSPACE  &kp NUMBER_0  &kp LC(LA(RIGHT_BRACKET))
+&sl 3         &kp LG(LS(NUMBER_4))  &kp LEFT_CONTROL  &kp LEFT_ARROW            &kp RIGHT_ARROW  &kp SPACE      &kp LEFT_ALT            &kp N7                &kp ENTER      &kp UP_ARROW  &kp DOWN_ARROW             &kp PERCENT  &none         &mo 2
+                                                      &kp LA(LC(LEFT_BRACKET))  &kp NUMBER_6     &kp NUMBER_2   &kp NUMBER_4            &kp NUMBER_9          &kp BACKSPACE  &kp NUMBER_0  &kp LC(LA(RIGHT_BRACKET))
             >;
         };
 
