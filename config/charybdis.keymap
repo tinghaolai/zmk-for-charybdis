@@ -11,12 +11,12 @@
 
         layer_0 {
             bindings = <
-&kp ESC       &kp COMMA             &kp AMPERSAND     &kp LEFT_BRACKET          &kp LEFT_BRACE   &kp LESS_THAN  &kp GRAVE               &kp NON_US_BACKSLASH  &kp QUESTION  &kp COLON     &kp PERIOD                 &kp PIPE     &kp ASTERISK  &kp MINUS
-&lt 1 CAPS    &kp DOLLAR            &kp EQUAL         &kp SEMICOLON             &kp P            &kp Y          &kp LEFT_PARENTHESIS    &kp SLASH             &kp F         &kp G         &kp C                      &kp R        &kp L         &kp PLUS
-&kp LEFT_GUI  &kp A                 &kp O             &kp E                     &kp U            &kp I          &kp SQT                 &kp DEL               &kp D         &kp H         &kp T                      &kp N        &kp S         &sl 2
-&kp TAB       &kp AT_SIGN           &kp Q             &kp J                     &kp K            &kp X          &none                   &none                 &kp B         &kp M         &kp W                      &kp V        &kp Z         &none
-&sl 3         &kp LG(LS(NUMBER_4))  &kp LEFT_CONTROL  &kp LEFT_ARROW            &kp RIGHT_ARROW  &kp SPACE      &kp LEFT_ALT            &kp BACKSPACE         &kp ENTER     &kp UP_ARROW  &kp DOWN_ARROW             &kp PERCENT  &none         &mo 2
-                                                      &kp LA(LC(LEFT_BRACKET))  &kp NUMBER_6     &kp NUMBER_2   &kp NUMBER_4            &kp NUMBER_9          &kp NUMBER_7  &kp NUMBER_0  &kp LC(LA(RIGHT_BRACKET))
+&kp ESC           &kp COMMA             &kp AMPERSAND  &kp LEFT_BRACKET          &kp LEFT_BRACE   &kp LESS_THAN  &kp GRAVE               &kp NON_US_BACKSLASH  &kp QUESTION  &kp COLON     &kp PERIOD                 &kp PIPE     &kp ASTERISK  &kp MINUS
+&lt 1 CAPS        &kp DOLLAR            &kp EQUAL      &kp SEMICOLON             &kp P            &kp Y          &kp LEFT_PARENTHESIS    &kp SLASH             &kp F         &kp G         &kp C                      &kp R        &kp L         &kp PLUS
+&kp LEFT_CONTROL  &kp A                 &kp O          &kp E                     &kp U            &kp I          &kp SQT                 &kp DEL               &kp D         &kp H         &kp T                      &kp N        &kp S         &sl 2
+&kp TAB           &kp AT_SIGN           &kp Q          &kp J                     &kp K            &kp X          &none                   &none                 &kp B         &kp M         &kp W                      &kp V        &kp Z         &none
+&sl 3             &kp LG(LS(NUMBER_4))  &kp LEFT_GUI   &kp LEFT_ARROW            &kp RIGHT_ARROW  &kp SPACE      &kp LEFT_ALT            &kp BACKSPACE         &kp ENTER     &kp UP_ARROW  &kp DOWN_ARROW             &kp PERCENT  &none         &mo 2
+                                                       &kp LA(LC(LEFT_BRACKET))  &kp NUMBER_6     &kp NUMBER_2   &kp NUMBER_4            &kp NUMBER_9          &kp NUMBER_7  &kp NUMBER_0  &kp LC(LA(RIGHT_BRACKET))
             >;
         };
 
