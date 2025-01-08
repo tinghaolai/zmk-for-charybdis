@@ -65,7 +65,7 @@
 &trans  &trans  &kp LC(LEFT)  &kp F21    &kp LG(RIGHT)  &trans     &trans       &none      &none          &none       &kp F15     &none   &none   &kp LG(F)
 &trans  &trans  &kp F19       &kp F20    &kp F18        &trans     &trans       &none      &none          &kp F13     &kp F14     &kp F6  &trans  &kp LG(C)
 &trans  &trans  &trans        &kp LC(W)  &trans         &trans     &trans       &trans     &kp PAGE_UP    &kp HOME    &kp END     &trans  &trans  &kp LG(V)
-&trans  &trans  &bootloader   &kp LS(J)  &kp LS(K)      &mkp LCLK  &mkp RCLK    &kp F17    &kp PAGE_DOWN  &sl 4       &trans      &trans  &trans  &trans
+&trans  &trans  &none         &kp LS(J)  &kp LS(K)      &mkp LCLK  &mkp RCLK    &kp F17    &kp PAGE_DOWN  &sl 4       &trans      &trans  &trans  &trans
                               &trans     &bootloader    &sl 4      &trans       &kp F16    &trans         &trans      &trans
             >;
         };
