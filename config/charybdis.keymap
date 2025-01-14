@@ -39,11 +39,11 @@
 
         layer_1 {
             bindings = <
-&none  &kp EXCLAMATION  &kp HASH   &kp RIGHT_BRACKET   &kp RIGHT_BRACE  &kp GREATER_THAN  &kp TILDE                &none            &none          &none             &none               &none      &kp LCTRL  &kp UNDERSCORE
-&none  &kp RG(F)        &kp RG(C)  &kp RG(V)           &kp LS(P)        &kp LS(Y)         &kp RIGHT_PARENTHESIS    &kp RIGHT_BRACE  &kp LS(F)      &kp LS(G)         &kp LS(C)           &kp LS(R)  &kp LS(L)  &none
-&none  &kp LS(A)        &kp LS(O)  &kp LS(E)           &kp LS(U)        &kp LS(I)         &kp DOUBLE_QUOTES        &none            &kp LS(D)      &kp LS(H)         &kp LS(T)           &kp LS(N)  &kp LS(S)  &none
-&none  &none            &kp LS(Q)  &kp LS(J)           &kp LS(K)        &kp LS(X)         &none                    &none            &kp LS(B)      &kp LS(M)         &kp LS(W)           &kp LS(V)  &kp LS(Z)  &none
-&none  &none            &none      &kp LS(LEFT_ARROW)  &kp LS(RIGHT)    &none             &none                    &none            &kp LS(ENTER)  &kp LS(UP_ARROW)  &kp LS(DOWN_ARROW)  &none      &none      &none
+&none  &kp EXCLAMATION  &kp HASH   &kp RIGHT_BRACKET   &kp RIGHT_BRACE  &kp GREATER_THAN  &kp TILDE                &none            &none          &none             &none               &none      &kp LA(NUMBER_6)  &kp UNDERSCORE
+&none  &kp RG(F)        &kp RG(C)  &kp RG(V)           &kp LS(P)        &kp LS(Y)         &kp RIGHT_PARENTHESIS    &kp RIGHT_BRACE  &kp LS(F)      &kp LS(G)         &kp LS(C)           &kp LS(R)  &kp LS(L)         &none
+&none  &kp LS(A)        &kp LS(O)  &kp LS(E)           &kp LS(U)        &kp LS(I)         &kp DOUBLE_QUOTES        &none            &kp LS(D)      &kp LS(H)         &kp LS(T)           &kp LS(N)  &kp LS(S)         &none
+&none  &none            &kp LS(Q)  &kp LS(J)           &kp LS(K)        &kp LS(X)         &none                    &none            &kp LS(B)      &kp LS(M)         &kp LS(W)           &kp LS(V)  &kp LS(Z)         &none
+&none  &none            &none      &kp LS(LEFT_ARROW)  &kp LS(RIGHT)    &none             &none                    &none            &kp LS(ENTER)  &kp LS(UP_ARROW)  &kp LS(DOWN_ARROW)  &none      &none             &none
                                    &none               &bootloader      &none             &none                    &none            &none          &none             &none
             >;
         };
