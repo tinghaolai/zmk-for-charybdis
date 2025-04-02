@@ -31,8 +31,8 @@
 &kp ESC           &kp COMMA             &kp AMPERSAND  &kp LEFT_BRACKET          &kp LEFT_BRACE   &kp LESS_THAN  &kp GRAVE               &kp BACKSLASH  &kp QUESTION  &kp COLON     &kp PERIOD                 &kp PIPE     &kp ASTERISK  &kp MINUS
 &lt 1 CAPS        &kp DOLLAR            &kp EQUAL      &kp SEMICOLON             &kp P            &kp Y          &kp LEFT_PARENTHESIS    &kp SLASH      &kp F         &kp G         &kp C                      &kp R        &kp L         &kp PLUS
 &kp LEFT_CONTROL  &kp A                 &kp O          &kp E                     &kp U            &kp I          &kp SQT                 &kp SQT        &kp D         &kp H         &kp T                      &kp N        &kp S         &sl 2
-&kp TAB           &kp AT_SIGN           &kp Q          &kp J                     &kp K            &kp X          &none                   &kp DEL        &kp B         &kp M         &kp W                      &kp V        &kp Z         &none
-&sl 3             &kp LG(LS(NUMBER_4))  &kp LEFT_GUI   &kp LEFT_ARROW            &kp RIGHT_ARROW  &kp SPACE      &kp D                   &kp BACKSPACE  &kp ENTER     &kp UP_ARROW  &kp DOWN_ARROW             &kp PERCENT  &none         &mo 2
+&kp TAB           &kp AT_SIGN           &kp Q          &kp J                     &kp K            &kp X          &none                   &kp DEL        &kp B         &kp M         &kp W                      &kp V        &kp Z         &kp V
+&sl 3             &kp LG(LS(NUMBER_4))  &kp LEFT_GUI   &kp LEFT_ARROW            &kp RIGHT_ARROW  &kp SPACE      &kp D                   &kp BACKSPACE  &kp ENTER     &kp UP_ARROW  &kp DOWN_ARROW             &kp PERCENT  &kp PERCENT   &mo 2
                                                        &kp LA(LC(LEFT_BRACKET))  &kp NUMBER_7     &kp LEFT_ALT   &kp NUMBER_4            &kp NUMBER_9   &kp NUMBER_7  &kp NUMBER_0  &kp LC(LA(RIGHT_BRACKET))
             >;
         };
@@ -42,7 +42,7 @@
 &none  &kp EXCLAMATION  &kp HASH   &kp RIGHT_BRACKET   &kp RIGHT_BRACE  &kp GREATER_THAN  &kp TILDE                &none              &none          &none             &none               &none      &kp LS(NUMBER_6)  &kp UNDERSCORE
 &none  &kp RG(F)        &kp RG(C)  &kp RG(V)           &kp LS(P)        &kp LS(Y)         &kp RIGHT_PARENTHESIS    &kp RIGHT_BRACE    &kp LS(F)      &kp LS(G)         &kp LS(C)           &kp LS(R)  &kp LS(L)         &none
 &none  &kp LS(A)        &kp LS(O)  &kp LS(E)           &kp LS(U)        &kp LS(I)         &kp DOUBLE_QUOTES        &kp DOUBLE_QUOTES  &kp LS(D)      &kp LS(H)         &kp LS(T)           &kp LS(N)  &kp LS(S)         &none
-&none  &none            &kp LS(Q)  &kp LS(J)           &kp LS(K)        &kp LS(X)         &none                    &none              &kp LS(B)      &kp LS(M)         &kp LS(W)           &kp LS(V)  &kp LS(Z)         &none
+&none  &none            &kp LS(Q)  &kp LS(J)           &kp LS(K)        &kp LS(X)         &none                    &none              &kp LS(B)      &kp LS(M)         &kp LS(W)           &kp LS(V)  &kp LS(Z)         &kp LS(V)
 &none  &none            &none      &kp LS(LEFT_ARROW)  &kp LS(RIGHT)    &none             &none                    &none              &kp LS(ENTER)  &kp LS(UP_ARROW)  &kp LS(DOWN_ARROW)  &none      &none             &none
                                    &none               &bootloader      &none             &none                    &none              &none          &none             &none
             >;
