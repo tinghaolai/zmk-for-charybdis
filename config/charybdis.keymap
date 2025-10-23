@@ -28,7 +28,7 @@
 
         layer_0 {
             bindings = <
-&kp ESC       &kp COMMA             &kp AMPERSAND  &kp LEFT_BRACKET          &kp LEFT_BRACE   &kp GRAVE  &bootloader     &kp BACKSLASH  &kp QUESTION   &kp COLON     &kp PERIOD                 &kp ASTERISK  &kp MINUS  &none
+&kp ESC       &kp COMMA             &kp AMPERSAND  &kp LEFT_BRACKET          &kp LEFT_BRACE   &kp GRAVE  &none           &kp BACKSLASH  &kp QUESTION   &kp COLON     &kp PERIOD                 &kp ASTERISK  &kp MINUS  &none
 &lt 1 CAPS    &kp DOLLAR            &kp EQUAL      &kp SEMICOLON             &kp P            &kp Y      &none           &kp SLASH      &kp F          &kp G         &kp C                      &kp R         &kp L      &none
 &kp LEFT_GUI  &kp A                 &kp O          &kp E                     &kp U            &kp I      &none           &kp SQT        &kp D          &kp H         &kp T                      &kp N         &kp S      &none
 &kp TAB       &kp AT_SIGN           &kp Q          &kp J                     &kp K            &kp X      &none           &mo 6          &kp B          &kp M         &kp W                      &kp V         &kp Z      &none
@@ -94,7 +94,7 @@
 
         layer_6 {
             bindings = <
-&trans  &trans        &trans        &trans        &trans        &trans        &trans    &trans  &trans         &trans        &trans        &trans        &trans        &trans
+&trans  &trans        &trans        &trans        &trans        &trans        &trans    &trans  &trans         &trans        &trans        &trans        &trans        &bootloader
 &trans  &trans        &trans        &trans        &trans        &trans        &trans    &trans  &trans         &trans        &trans        &trans        &trans        &trans
 &trans  &kp NUMBER_7  &kp NUMBER_5  &kp NUMBER_3  &kp NUMBER_1  &kp NUMBER_9  &trans    &trans  &kp NUMBER_0   &kp NUMBER_2  &kp NUMBER_4  &kp NUMBER_6  &kp NUMBER_8  &trans
 &trans  &trans        &trans        &trans        &trans        &trans        &trans    &trans  &kp PAGE_UP    &kp HOME      &kp END       &trans        &trans        &trans
