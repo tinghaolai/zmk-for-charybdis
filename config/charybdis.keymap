@@ -87,7 +87,7 @@
 &trans       &kp F18        &trans   &kp LESS_THAN  &kp GREATER_THAN       &kp LC(Y)    &trans    &trans            &trans     &trans  &kp LA(C)  &kp LC(LA(LEFT_BRACKET))  &kp LA(LC(RIGHT_BRACKET))  &trans
 &trans       &kp LG(COMMA)  &trans   &trans         &kp LA(RIGHT_BRACKET)  &kp LA(SQT)  &trans    &kp LA(NUMBER_0)  &kp LC(D)  &trans  &trans     &trans                    &kp LA(S)                  &trans
 &kp LC(TAB)  &trans         &trans   &trans         &trans                 &trans       &trans    &trans            &trans     &trans  &trans     &trans                    &trans                     &trans
-&none        &trans         &trans   &trans         &trans                 &trans       &trans    &kp LEFT_GUI      &trans     &trans  &trans     &trans                    &trans                     &trans
+&none        &trans         &trans   &kp LA(LEFT)   &kp LA(RIGHT)          &trans       &trans    &kp LEFT_GUI      &trans     &trans  &trans     &trans                    &trans                     &trans
                                      &trans         &trans                 &trans       &trans    &trans            &trans     &trans  &trans
             >;
         };
