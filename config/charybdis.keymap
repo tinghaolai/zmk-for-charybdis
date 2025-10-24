@@ -51,7 +51,7 @@
 
         layer_1 {
             bindings = <
-&none        &kp EXCLAMATION  &kp HASH   &kp RIGHT_BRACKET   &kp RIGHT_BRACE  &kp TILDE       &none     &kp LS(NUMBER_6)   &none      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &none      &kp LS(UNDERSCORE)  &none
+&none        &kp EXCLAMATION  &kp HASH   &kp RIGHT_BRACKET   &kp RIGHT_BRACE  &kp TILDE       &none     &kp LS(NUMBER_6)   &none      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp PLUS   &kp LS(UNDERSCORE)  &none
 &none        &kp RG(F)        &kp RG(C)  &kp RG(V)           &kp LS(P)        &kp LS(Y)       &none     &none              &kp LS(F)  &kp LS(G)             &kp LS(C)              &kp LS(R)  &kp LS(L)           &none
 &none        &kp LS(A)        &kp LS(O)  &kp LS(E)           &kp LS(U)        &kp LS(I)       &none     &kp DOUBLE_QUOTES  &kp LS(D)  &kp LS(H)             &kp LS(T)              &kp LS(N)  &kp LS(S)           &none
 &kp LS(TAB)  &none            &kp LS(Q)  &kp LS(J)           &kp LS(K)        &kp LS(X)       &none     &none              &kp LS(B)  &kp LS(M)             &kp LS(W)              &kp LS(V)  &kp LS(Z)           &none
@@ -98,7 +98,7 @@
 &kp LC(C)    &kp F13        &kp F14  &kp F15        &kp F17                &kp F16      &trans    &trans            &trans     &trans  &trans     &kp LS(LG(GRAVE))         &kp LG(GRAVE)              &trans
 &trans       &kp F18        &trans   &kp LESS_THAN  &kp GREATER_THAN       &kp LC(Y)    &trans    &trans            &trans     &trans  &kp LA(C)  &kp LC(LA(LEFT_BRACKET))  &kp LA(LC(RIGHT_BRACKET))  &trans
 &trans       &kp LG(COMMA)  &trans   &trans         &kp LA(RIGHT_BRACKET)  &kp LA(SQT)  &trans    &kp LA(NUMBER_0)  &kp LC(D)  &trans  &trans     &trans                    &kp LA(S)                  &trans
-&kp LC(TAB)  &trans         &trans   &trans         &trans                 &trans       &trans    &trans            &trans     &trans  &trans     &trans                    &trans                     &trans
+&kp LG(TAB)  &trans         &trans   &trans         &trans                 &trans       &trans    &trans            &trans     &trans  &trans     &trans                    &trans                     &trans
 &none        &trans         &trans   &kp LA(LEFT)   &kp LA(RIGHT)          &trans       &trans    &kp LEFT_GUI      &trans     &trans  &trans     &trans                    &trans                     &trans
                                      &trans         &trans                 &trans       &trans    &trans            &trans     &trans  &trans
             >;
