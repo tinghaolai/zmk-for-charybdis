@@ -95,7 +95,7 @@
 
         layer_5 {
             bindings = <
-&kp LC(C)    &kp F13        &kp F14  &kp F15        &kp F17                &kp F16      &trans    &trans            &trans     &trans  &trans     &kp LS(LG(GRAVE))         &kp LG(GRAVE)              &trans
+&kp LC(C)    &kp F13        &kp F14  &kp F15        &kp F17                &kp F16      &trans    &trans            &kp F11    &trans  &trans     &kp LS(LG(GRAVE))         &kp LG(GRAVE)              &trans
 &trans       &kp F18        &trans   &kp LESS_THAN  &kp GREATER_THAN       &kp LC(Y)    &trans    &trans            &trans     &trans  &kp LA(C)  &kp LC(LA(LEFT_BRACKET))  &kp LA(LC(RIGHT_BRACKET))  &trans
 &trans       &kp LG(COMMA)  &trans   &trans         &kp LA(RIGHT_BRACKET)  &kp LA(SQT)  &trans    &kp LA(NUMBER_0)  &kp LC(D)  &trans  &trans     &trans                    &kp LA(S)                  &trans
 &kp LG(TAB)  &trans         &trans   &trans         &trans                 &trans       &trans    &trans            &trans     &trans  &trans     &trans                    &trans                     &trans
