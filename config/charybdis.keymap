@@ -95,12 +95,12 @@
 
         layer_5 {
             bindings = <
-&kp LC(C)    &kp F13        &kp F14  &kp F15        &kp F17                &kp F16      &trans    &trans            &trans            &trans            &trans            &kp LS(LG(GRAVE))         &kp LG(GRAVE)              &trans
-&trans       &kp F18        &kp F20  &kp LESS_THAN  &kp GREATER_THAN       &kp LC(Y)    &trans    &trans            &trans            &trans            &kp LA(C)         &kp LC(LA(LEFT_BRACKET))  &kp LA(LC(RIGHT_BRACKET))  &trans
-&trans       &kp LG(COMMA)  &trans   &trans         &kp LA(RIGHT_BRACKET)  &kp LA(SQT)  &trans    &kp LA(NUMBER_0)  &kp LC(D)         &trans            &trans            &trans                    &kp LA(S)                  &trans
-&kp LG(TAB)  &trans         &trans   &trans         &trans                 &trans       &trans    &kp LA(NUMBER_1)  &kp LA(NUMBER_2)  &kp LA(NUMBER_3)  &kp LA(NUMBER_4)  &kp LA(NUMBER_5)          &kp LA(NUMBER_6)           &trans
-&none        &trans         &trans   &kp LA(LEFT)   &kp LA(RIGHT)          &trans       &trans    &kp LEFT_GUI      &kp LA(NUMBER_7)  &kp LA(NUMBER_8)  &kp LA(NUMBER_9)  &kp LA(NUMBER_0)          &trans                     &trans
-                                     &trans         &trans                 &trans       &trans    &trans            &trans            &trans            &trans
+&kp LC(C)    &kp F13        &kp F14  &kp F15        &kp F17                &kp F16      &trans    &trans            &trans            &trans                &trans                 &kp LS(LG(GRAVE))         &kp LG(GRAVE)              &trans
+&trans       &kp F18        &kp F20  &kp LESS_THAN  &kp GREATER_THAN       &kp LC(Y)    &trans    &trans            &trans            &trans                &kp LA(C)              &kp LC(LA(LEFT_BRACKET))  &kp LA(LC(RIGHT_BRACKET))  &trans
+&trans       &kp LG(COMMA)  &trans   &trans         &kp LA(RIGHT_BRACKET)  &kp LA(SQT)  &trans    &kp LA(NUMBER_0)  &kp LC(D)         &kp LA(LEFT_BRACKET)  &kp LA(RIGHT_BRACKET)  &trans                    &kp LA(S)                  &trans
+&kp LG(TAB)  &trans         &trans   &trans         &trans                 &trans       &trans    &kp LA(NUMBER_1)  &kp LA(NUMBER_2)  &kp LA(NUMBER_3)      &kp LA(NUMBER_4)       &kp LA(NUMBER_5)          &kp LA(NUMBER_6)           &trans
+&none        &trans         &trans   &kp LA(LEFT)   &kp LA(RIGHT)          &trans       &trans    &kp LEFT_GUI      &kp LA(NUMBER_7)  &kp LA(NUMBER_8)      &kp LA(NUMBER_9)       &kp LA(NUMBER_0)          &trans                     &trans
+                                     &trans         &trans                 &trans       &trans    &trans            &trans            &trans                &trans
             >;
         };
 
